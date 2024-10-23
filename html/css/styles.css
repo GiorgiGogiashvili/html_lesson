@@ -5,3 +5,17 @@
 body {
     font-style:italic;
 }
+
+button {
+    color:black;
+    background-color:lightslategrey;
+}
+
+.second {
+    color:darkgrey;
+}
+
+.points {
+    color:rgb(89, 5, 5)
+}
+
